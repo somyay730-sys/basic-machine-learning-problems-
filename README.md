@@ -2,21 +2,7 @@
 
 Welcome to my repository! This project serves as a comprehensive collection of foundational implementations in both **Machine Learning (ML)** and **Computer Vision (CV)**. Whether you are learning the mathematical intuitions behind classical algorithms or exploring basic image processing techniques, this codebase provides clean, well-documented, and easy-to-run scripts.
 
----
 
-## 📂 Repository Structure
-
-```text
-├── machine_learning/
-│   ├── linear_regression.py
-│   ├── logistic_regression.py
-│   ├── naive_bayes.py
-│   └── kmeans_clustering.py
-├── computer_vision/
-│   ├── circle_detection.py
-│   └── basic_cv_utils.py
-└── requirements.txt
-```
 
 ---
 
